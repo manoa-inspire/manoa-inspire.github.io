@@ -1,5 +1,3 @@
-# Manoa Inspire
-
 ## Table of contents
 - [About Us](#about-us)
 
