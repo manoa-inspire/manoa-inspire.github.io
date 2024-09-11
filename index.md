@@ -18,6 +18,11 @@ Manoa Inspire is made possible by: Tanner Berry, Roma Malasarte, Catelyn Jochim,
 
 ## Overview
 
+## Approach
+
+
+## User Guide
+
 ### Landing Page
 <img src="./doc/spire_Landing.png">
 
@@ -45,18 +50,14 @@ Manoa Inspire is made possible by: Tanner Berry, Roma Malasarte, Catelyn Jochim,
 <img src="./doc/inspire_contact.png">
 
 ### Manage Page (Admin Login Only)
-
-
-
-## Approach
-
-## User Guide
+<img src="./doc/inspire_manage.png">
 
 ## Developer Guide
 
 ## Deployment
 
 ## Project Milestones
+[Milestone 1](https://github.com/orgs/manoa-inspire/projects/2/views/1)
 
 
 
