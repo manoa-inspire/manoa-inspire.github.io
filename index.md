@@ -21,6 +21,33 @@ Manoa Inspire is made possible by: Tanner Berry, Roma Malasarte, Catelyn Jochim,
 ### Landing Page
 <img src="./doc/spire_Landing.png">
 
+### Login Page
+<img src="./doc/inspire_login.png">
+
+### Dashboard
+<img src="./doc/inspire_dashboard.png">
+
+### Input Data Pages
+
+#### Audited Balance Page
+<img src="./doc/inspire_audited_balance.png">
+
+#### Budget P&L Page
+<img src="./doc/inspire_budget.png">
+
+#### Audited Page 
+<img src="./doc/inspire_audited.png">
+
+### Information Page
+<img src="./doc/inspire_info_pg.png">
+
+### Contact Us Page
+<img src="./doc/inspire_contact.png">
+
+### Manage Page (Admin Login Only)
+
+
+
 ## Approach
 
 ## User Guide
