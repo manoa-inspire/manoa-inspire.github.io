@@ -18,18 +18,46 @@ Manoa Inspire is made possible by: Tanner Berry, Roma Malasarte, Catelyn Jochim,
 
 ## Overview
 
+## Approach
+
+
+## User Guide
+
 ### Landing Page
 <img src="./doc/spire_Landing.png">
 
-## Approach
+### Login Page
+<img src="./doc/inspire_login.png">
 
-## User Guide
+### Dashboard
+<img src="./doc/inspire_dashboard.png">
+
+### Input Data Pages
+
+#### Audited Balance Page
+<img src="./doc/inspire_audited_balance.png">
+
+#### Budget P&L Page
+<img src="./doc/inspire_budget.png">
+
+#### Audited Page 
+<img src="./doc/inspire_audited.png">
+
+### Information Page
+<img src="./doc/inspire_info_pg.png">
+
+### Contact Us Page
+<img src="./doc/inspire_contact.png">
+
+### Manage Page (Admin Login Only)
+<img src="./doc/inspire_manage.png">
 
 ## Developer Guide
 
 ## Deployment
 
 ## Project Milestones
+[Milestone 1](https://github.com/orgs/manoa-inspire/projects/2/views/1)
 
 
 
