@@ -18,6 +18,9 @@ Manoa Inspire is made possible by: Tanner Berry, Roma Malasarte, Catelyn Jochim,
 
 ## Overview
 
+### Landing Page
+<img src="./doc/spire_Landing.png">
+
 ## Approach
 
 ## User Guide
