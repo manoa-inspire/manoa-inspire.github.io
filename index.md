@@ -4,7 +4,7 @@
 - [About Us](#about-us)
 - [Overview](#overview)
 - [Approach](#approach)
-- [User Guide](#userguide)
+- [User Guide](#user-guide)
 - [Developer Guide](#developer-guide)
 - [Deployment](#deployment)
 - [Project Milestones](#project-milestones)
