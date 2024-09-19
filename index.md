@@ -1,5 +1,5 @@
 ## Manoa Inspire
-
+[![MATP](https://github.com/manoa-inspire/MATP/actions/workflows/ci.yml/badge.svg)](https://github.com/manoa-inspire/MATP/actions/workflows/ci.yml)
 ## Table of contents
 - [About Us](#about-us)
 - [Overview](#overview)
