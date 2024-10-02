@@ -65,7 +65,8 @@ Here is the 4 year charts (8 and 12 years have a similar outline):
 ## Deployment
 
 ## Project Milestones
-[Milestone 1](https://github.com/orgs/manoa-inspire/projects/2/views/1)
+[Milestone 1](https://github.com/orgs/manoa-inspire/projects/2/views/1) 
+<br>
 [Milestone 2](https://github.com/orgs/manoa-inspire/projects/9/views/1)
 
 
