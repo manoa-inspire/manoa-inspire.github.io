@@ -52,6 +52,7 @@ Here is the 4 year charts (8 and 12 years have a similar outline):
 <img src="./doc/inspire_contact1.png">
 
 ### Manage Page (Admin Login Only)
+<img src="./doc/inspire_manage.png">
 
 
 
