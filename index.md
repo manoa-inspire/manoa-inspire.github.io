@@ -48,6 +48,8 @@ Here is the 4 year charts (8 and 12 years have a similar outline):
 ### Information Page
 <img src="./doc/inspire_info_pg.png">
 
+### CSV File Page
+
 ### Contact Us Page
 <img src="./doc/inspire_contact1.png">
 
@@ -68,6 +70,8 @@ Here is the 4 year charts (8 and 12 years have a similar outline):
 [Milestone 1](https://github.com/orgs/manoa-inspire/projects/2/views/1) 
 <br>
 [Milestone 2](https://github.com/orgs/manoa-inspire/projects/9/views/1)
+<br>
+[Milestone 3](https://github.com/orgs/manoa-inspire/projects/10/views/1)
 
 
 
