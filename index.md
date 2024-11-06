@@ -18,6 +18,8 @@ Manoa Inspire is made possible by: Tanner Berry, Roma Malasarte, Catelyn Jochim,
 
 ## Overview
 
+## User Guide
+
 ### Landing Page
 <img src="./doc/inspire_landing.png">
 
@@ -57,12 +59,54 @@ Here is the 4 year charts (8 and 12 years have a similar outline):
 <img src="./doc/inspire_manage.png">
 
 
-
 ## Approach
 
-## User Guide
-
 ## Developer Guide
+
+### Installation
+First, [install Meteor](https://www.meteor.com/).
+
+Second, visit the [Manoa Inspire Repository Page](https://github.com/manoa-inspire/MATP), and click the "Clone" button to clone your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
+
+Third, cd into the MATP/app directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
+
+
+### ESLint
+
+Manoa Inspire includes an [.eslintrc](https://github.com/manoa-inspire/MATP/blob/main/app/.eslintrc.js) file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
+
+```
+meteor npm run lint
+```
+
+Here is sample output indicating that no ESLint errors were detected:
+
+```
+$ meteor npm run lint
+
+> UH-Broadcast@ lint C:\Users\HRLia\Documents\GitHub\BroadcastHosting\app
+> eslint --quiet --ext .jsx --ext .js ./imports && eslint --quiet --ext .js ./tests
+
+$
+```
+
+ESLint should run without generating any errors.
+
+It's significantly easier to do development with ESLint integrated directly into your IDE (such as IntelliJ).
+
+
 
 ## Deployment
 
@@ -72,7 +116,8 @@ Here is the 4 year charts (8 and 12 years have a similar outline):
 [Milestone 2](https://github.com/orgs/manoa-inspire/projects/9/views/1)
 <br>
 [Milestone 3](https://github.com/orgs/manoa-inspire/projects/10/views/1)
-
+<br>
+[Milestone 4](https://github.com/orgs/manoa-inspire/projects/14)
 
 
 
