@@ -24,16 +24,16 @@ Manoa Inspire is made possible by: Tanner Berry, Roma Malasarte, Catelyn Jochim,
 <img src="./doc/final_pics/inspire_landing_final.png">
 
 ### Login Page
-<img src="./doc/inspire_login.png">
+<img src="./doc/final_pics/inspire_signin_final.png">
 
 ### Dashboard
 Here is the snapshot part of the dashboard:
 <br>
-<img src="./doc/inspire_dashboard_snapshot.png">
+<img src="./doc/final_pics/inspire_dashboard_final.png">
 <br>
 Here is the 4 year charts (8 and 12 years have a similar outline):
 <br>
-<img src="./doc/inspire_dashboard_4y.png">
+<img src="./doc/final_pics/inspire_dashboard2_final.png">
 
 
 ### Input Data Pages
@@ -47,13 +47,13 @@ Here is the 4 year charts (8 and 12 years have a similar outline):
 #### Audited Page
 <img src="./doc/inspire_audited1.png">
 
-### Information Page
-<img src="./doc/inspire_info_pg.png">
+### User Page
+<img src="./doc/final_pics/inspire_user_page_final.png">
 
 ### CSV File Page
 
 ### Contact Us Page
-<img src="./doc/inspire_contact1.png">
+<img src="./doc/final_pics/inspire_contact_us_final.png">
 
 ### Manage Page (Admin Login Only)
 <img src="./doc/inspire_manage.png">
