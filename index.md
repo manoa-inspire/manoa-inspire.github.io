@@ -21,7 +21,7 @@ Manoa Inspire is made possible by: Tanner Berry, Roma Malasarte, Catelyn Jochim,
 ## User Guide
 
 ### Landing Page
-<img src="./doc/inspire_landing.png">
+<img src="./doc/final_pics/inspire_landing_final.png">
 
 ### Login Page
 <img src="./doc/inspire_login.png">
@@ -118,6 +118,12 @@ It's significantly easier to do development with ESLint integrated directly into
 [Milestone 3](https://github.com/orgs/manoa-inspire/projects/10/views/1)
 <br>
 [Milestone 4](https://github.com/orgs/manoa-inspire/projects/14)
+<br>
+[Milestone 5](https://github.com/orgs/manoa-inspire/projects/15/views/1)
+<br>
+[Milestone 6](https://github.com/orgs/manoa-inspire/projects/16)
+
+
 
 
 
